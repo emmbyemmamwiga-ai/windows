@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1
+# syntax=docker/dockerfile:1 
 
 # 1. Tumia jina la toleo lako (Version)
 ARG VERSION_ARG="1.0.0"
